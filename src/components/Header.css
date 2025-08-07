@@ -1,0 +1,14 @@
+.header {
+  position: sticky;
+  display: flex;
+  place-content: center;
+  top: 0;
+  z-index: 1000;
+  padding: 1em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 1.5);
+  background-color: #333333;
+
+  h1 {
+    margin: 0;
+  }
+}
